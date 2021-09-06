@@ -1,5 +1,5 @@
 
-"$TOEKN"
+"ODUwMzg4MjkwNzQxMzM4MTUz.YLo_zw.D-WKf6Ztkr8ine2YRgji4WU_d68"
 // if you need help ask in the help channel dont dm me
  const { default_prefix } = require("./config.json")
  const fetch = require("node-fetch");
